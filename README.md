@@ -17,4 +17,4 @@ Materials from the "Teaching with Generative Artificial Intelligence: Guidance f
 Other links can be found [on this page.](https://github.com/runyoncr/IAEA_AI_Best_Practices/blob/main/README.md)
 
 ## Prompt Engineering
-[**Prompt Engineering Guide**](https://www.promptingguide.ai/) - provides more information about advanced prompt engineering techniques, including manuscripts
+[**Prompt Engineering Guide**](https://www.promptingguide.ai/) - provides more information about advanced prompt engineering techniques, including reference manuscripts
