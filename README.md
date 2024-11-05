@@ -2,7 +2,9 @@
 Materials from the "Teaching with Generative Artificial Intelligence: Guidance for Faculty Developers and Educators" Workshop at TGME, November 8, 2024.
 
 Christopher Runyon, NBME
+
 Elissa Hall, Mayo Clinical
+
 Larry Hurtubise, The Ohio State University
 
 Some useful links for thinking about developing AI standards:
