@@ -18,3 +18,6 @@ Other links can be found [on this page.](https://github.com/runyoncr/IAEA_AI_Bes
 
 ## Prompt Engineering
 [**Prompt Engineering Guide**](https://www.promptingguide.ai/) - provides more information about advanced prompt engineering techniques, including reference manuscripts
+
+## Related Workshops and Materials
+[Chris gave a few other workshops on GenAI / GPTs this year.](https://github.com/runyoncr/GEA_GPT_Materials)
