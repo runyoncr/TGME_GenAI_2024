@@ -19,5 +19,11 @@ Other links can be found [on this page.](https://github.com/runyoncr/IAEA_AI_Bes
 ## Prompt Engineering
 [**Prompt Engineering Guide**](https://www.promptingguide.ai/) - provides more information about advanced prompt engineering techniques, including reference manuscripts
 
+## Examples of OSCE-like chatbots
+[Dartmouth AI Patient](https://ai.dartmouth.edu/patient-actor)
+[OSCEai](https://oscegpt.com)
+[Health Professions AI Tutor](https://hpe-bot.com)
+[Medagogy](https://www.medagogy.org)
+
 ## Related Workshops
 [Chris gave a few other workshops on GPTs this year.](https://github.com/runyoncr/GEA_GPT_Materials)
