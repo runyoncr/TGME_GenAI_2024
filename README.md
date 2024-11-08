@@ -21,8 +21,11 @@ Other links can be found [on this page.](https://github.com/runyoncr/IAEA_AI_Bes
 
 ## Examples of OSCE-like chatbots
 [Dartmouth AI Patient](https://ai.dartmouth.edu/patient-actor)
+
 [OSCEai](https://oscegpt.com)
+
 [Health Professions AI Tutor](https://hpe-bot.com)
+
 [Medagogy](https://www.medagogy.org)
 
 ## Related Workshops
